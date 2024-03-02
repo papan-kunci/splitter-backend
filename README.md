@@ -6,9 +6,9 @@ Backend REST APIs service built with Go to support API functionalities for Split
 
 * [Go](https://go.dev) - Go programming language 
 * [Gin](https://gin-gonic.com/) - Go web framework to build HTTP servers
-* [Gorm]() - 
-* [Postgres]() -
-* [Docker]() - 
+* [Gorm](https://gorm.io/) - ORM library for Go 
+* [Postgres](https://www.postgresql.org/) -  Popular open-source SQL RDBMS
+* [Docker](https://docs.docker.com/get-started/) - Develop, ship, and run your app with containers
 
 ### Getting Started
 
