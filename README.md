@@ -43,6 +43,7 @@ go test
 ```
 
 ### Database
+Database structure can be access [here](https://www.figma.com/file/kcwcSrfflPUlOacmDA3MdZ/splitter?type=whiteboard&node-id=0%3A1&t=wPog9MTVrlnhxaKa-1)
 
 Running the database on your machine using Docker Compose.
 
